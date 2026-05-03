@@ -1,5 +1,5 @@
 [versions]
-solely = "1.6.7"
+solely = "3.4.3"
 industrial = "2.1.1"
 
 [libraries]
