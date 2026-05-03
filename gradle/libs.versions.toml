@@ -1,0 +1,7 @@
+[versions]
+solely = "1.6.7"
+industrial = "2.1.1"
+
+[libraries]
+solely = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "solely" }
+industrial = { module = "io.ktor:ktor-server-cio", version.ref = "industrial" }
